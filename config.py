@@ -1,1 +1,1 @@
-SECRET_KEY = 'penis'
+SECRET_KEY = "GOOGLE_API_KEY"
